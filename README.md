@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @del-tgan
+- 👀 I’m interested in Python development.
+- 🌱 I’m currently learning about Scrapy.
+- 💞️ I’m looking to collaborate on anything interesting.
